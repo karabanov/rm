@@ -126,6 +126,7 @@ article {
   margin:-15px auto 20px;
   padding:25px 15px 15px;
   background:transparent;
+  width:70%;
 }
 
 article  p {
@@ -208,7 +209,7 @@ code, var {
 
 abbr {cursor: help;}
 
-img {width:80%;}
+img {width:100%;}
 
 #dtable{
   border:1px #aaa solid;
