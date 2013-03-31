@@ -209,7 +209,7 @@ code, var {
 
 abbr {cursor: help;}
 
-img {width:100%;}
+article img {width:100%;}
 
 #dtable{
   border:1px #aaa solid;
